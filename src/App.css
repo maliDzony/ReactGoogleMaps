@@ -1,0 +1,20 @@
+.app {
+  margin: 50px;
+}
+
+.textField{
+  margin-right: 12px;
+}
+
+.prevRoute{
+  margin-top: 50px;
+}
+
+.prevRouteItem{
+  height: 40px;
+}
+
+.prevRouteLabel{
+  width: 25%;
+  display: inline-block;
+}
